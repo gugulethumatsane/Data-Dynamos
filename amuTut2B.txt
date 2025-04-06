@@ -1,0 +1,11 @@
+1)Challanges
+i had to download the g++ compiler
+I had to change the execute permision on the bash rc file
+
+2)What did i learn
+Fixing errors, i had to read the message and find a solution so essentially problem solving.
+How software is installed in linux.
+
+3)Impression
+Theres a lot of commands that i didnt know which was a bit overwhelming but i think if you do it a thousand times you can get used to it.
+
